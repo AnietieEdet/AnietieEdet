@@ -49,6 +49,15 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="rails" alt="rails" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+     
+     
+  
+---
+     
+     
+ ### 🔥 My stats :
+     
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnietieEdet)](https://git.io/streak-stats)
  
   
   
