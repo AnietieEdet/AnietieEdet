@@ -23,8 +23,38 @@
   <img src="https://media0.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=6c09b9527ae90c09d6292197df23b1b0fb134b550cb3fb84&rid=giphy.gif&ct=g" width="300" height="200"/>
   </div>
    
+  ---
   
-   
+  
+  ###   👨‍💻  ABOUT ME :
+  
+  -   I'm  a full stack cloud practitioner and Machine learning (ML)Engineer from Nigeria
+  - 🔭 I'm currently exploring Technical content writing.
+  - ⚡ in my free time I read tech aticles to get more savvy
+  -    💌 aedet430@gmail.com
+       📱 +2348088112234
+    
+  ---
+  
+  
+  ###   🛠️ Language and Tools :
+   <div>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Java" alt="java" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="rails" alt="rails" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+ 
+  
+  
+  
+
+  
 
   
       
