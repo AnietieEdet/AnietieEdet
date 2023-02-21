@@ -28,9 +28,9 @@
   
   ###   👨‍💻  ABOUT ME :
   
-  -   I'm  a full stack cloud practitioner and Machine learning (ML)Engineer from Nigeria
-  - 🔭 I'm currently exploring Technical content writing.
-  - ⚡ in my free time I read tech aticles to get more savvy
+  -       I'm  a full stack cloud practitioner and Machine learning (ML)Engineer from Nigeria
+  -    🔭 I'm currently exploring Technical content writing.
+  -    ⚡ in my free time I read tech articles and solve data algorithms to get more savvy
   -    💌 aedet430@gmail.com
        📱 +2348088112234
     
