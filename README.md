@@ -17,11 +17,15 @@
    <img src="https://komarev.com/ghpvc/?username=AnietieEdet&style=flat-bottomed&colour=gray" alt=""/>
 </div> 
     <h1>
-      
-
-   
-   <img src="https://media3.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif?cid=6c09b952bde6531ebb1bb095b72a4806c39d8614d9e90829&rid=giphy.gif&ct=g" width="30px"/>
+      <img src="https://media3.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif?cid=6c09b952bde6531ebb1bb095b72a4806c39d8614d9e90829&rid=giphy.gif&ct=g" width="30px"/>
       </h1>
+<div align="centre">
+  <img src="https://media0.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=6c09b9527ae90c09d6292197df23b1b0fb134b550cb3fb84&rid=giphy.gif&ct=g" width="300" height="200"/>
+  </div>
+   
+   
+
+  
       
     
 
